@@ -1,11 +1,11 @@
 # Site settings
-title: "Gustavo Gambera Site"
-email:ggambera@gmail.com
+title: 
+email: "ggambera@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "https://gambera.github.io/projetos/" # the subpath of your site, e.g. /blog/
 url: "https://gambera.github.io" # the base hostname & protocol for your site
 
-twitter_username: "@ggambera"
+twitter_username: "@gugambera"
 github_username: "gambera"
 
 # Build settings
